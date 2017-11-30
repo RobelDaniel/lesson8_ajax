@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 30, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Robel Daniel)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(For this assignment I had to create an account at TMDB, then I had to add the code to show more informtion about the movie. Movie plot, release date, popularity and language.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://robeldaniel.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned about the API keys and how it allows you to have access to certain information. In this case, it allowed me to have access to the TMDB movie database and without it I wouldnt be able to link my application with the movie database.)
+2. (I learned that ajax makes it possible for your page to be updated with information and not have to refresh the page or load a new one. The information is updated directly to that same page.)
+3. (I learned that json was able to receive the information from the database server then convert it into the format that already exists in my application, so that it is in the same format as the rest of the information.)
